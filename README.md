@@ -8,6 +8,6 @@
 </p>
 <p align="center"> 
   Visitor count<br>
-  <img src="https://profile-counter.glitch.me/lordkamayt/count.svg" />
+  <img src="https://profile-counter.glitch.me/LordKamaYT/count.svg" />
 </p>
 
